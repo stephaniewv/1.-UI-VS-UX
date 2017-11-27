@@ -12,7 +12,7 @@ Identificar las partes que conforman UX VS UI
 
 ## Youtube
 
-####**UX**
+#### **UX**
 
 Se ha realizado un sketch para una mejor visualización del trabajo del UX.
 
@@ -20,7 +20,7 @@ Gracias a su investigación, el propone como la gente puede resolver sus problem
 
 ![logo](assets/ux.jpeg)
 
-####**UI**
+#### **UI**
 
 Todo lo que respecta a la navegación, iconografía, color, menús, desplegables, botones, links, ventanas, esquinas redondeadas, sombreado, mensajes de error, alertas, actualizaciones, checkboxes, campos de contraseña, etc. Estan representados por el UI.
 
